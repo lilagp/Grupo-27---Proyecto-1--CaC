@@ -1,0 +1,25 @@
+GRUPO 27 - PROYECTO 1 - CODO A CODO
+
+Datos de los/as integrantes:
+
+Lila Palazzo, DNI 36397396.
+Maria Gabriela Morales Rauseo, DNI 95906596.
+
+Información sobre el proyecto y requerimientos del mismo:
+
+-7 paguinas web: Inicio, Productos, Sobre Nosotros, Contacto, Carrito, Pagina de Producto Ejemplio 1 y 	Pagina de Producto Ejemplio 2.
+
+-Form de Contacto: Integrado dentro de la página de contacto. Cuenta con 5 campos validados por JS.
+
+-Responsive: Las 7 páginas html funcionan de manera responsive, con 3 puntos de corte con media querys especificadas en el CSS.
+
+-Animación: Letrero animado incorporado con CSS en la sección Sobre Nosotros.
+
+-Estructura maquetada con Flexbox
+
+-Trabajo subido a Github y Netlify.
+
+-Todos los archivos fueron devueltos sin errores, mediante la validación http://validator.w3.org.
+
+-Utilizamos Google Fonts para el proyecto en general y Bootstrap para la iconografia.
+
